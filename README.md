@@ -1,9 +1,11 @@
 # Income Splitting: feedback
 
-[Income Splitting](https://www.incomesplittingcanada.com/) provides Canadian retirement
-planning estimates and historical income-splitting calculators.
+[Income Splitting](https://www.incomesplittingcanada.com/) is a small personal project
+for exploring Canadian retirement planning and historical income-splitting calculations.
+It's a toy to experiment with, not a financial planning service.
 
-Use this repository to suggest improvements, report bugs, or share feedback about the site.
+Ideas, bug reports, and feedback are welcome! I work on this project in my spare time,
+when I have the time, energy, and resources. I can't promise a response or a fix.
 [View existing issues or open a new issue](https://github.com/mp31415/IncomeSplitting/issues).
 A GitHub account is needed to submit an issue.
 
@@ -11,9 +13,9 @@ A GitHub account is needed to submit an issue.
 numbers, contact details, passwords, or other sensitive information. Use fictional or
 anonymized examples instead.
 
-For a bug report, please include the page, the steps to reproduce it, what you expected,
-what happened, and your browser or device. For an idea, describe the problem it would
-help solve. Screenshots should not contain personal information.
+If you report a bug, it helps to include the page, what you did, what you expected,
+what happened, and your browser or device. For an idea, tell me what it would help with.
+Please remove personal information from screenshots too.
 
-The site provides planning estimates, not personal tax or financial advice. You can also
-reach the project through [Facebook](https://www.facebook.com/incomesplittingcanadacom-493561094161854/).
+The site's estimates are not personal tax or financial advice. There's also a
+[Facebook page](https://www.facebook.com/incomesplittingcanadacom-493561094161854/).
